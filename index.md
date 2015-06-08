@@ -10,4 +10,4 @@ description: Singapore Virtual Reality and Augmented Reality meetup where people
 
 ### Chat with the community
 
-[Chat](https://gitter.im/sgvrar/discussion)
+<a class='btn btn-success' href='https://gitter.im/sgvrar/discussion'>Join the chatroom</a>
